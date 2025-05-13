@@ -1,2 +1,0 @@
-# ai-homework
-ai-homework
